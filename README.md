@@ -8,11 +8,15 @@
 
 👥 Estou sempre à disposição para colaborar em projetos relacionados a testes de software.
 
+<div display="inline">
 
-[PriscilaAlves](https://www.linkedin.com/in/priscila-alves-costa/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/https://www.linkedin.com/in/priscila-alves-costa/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/alvescosta)
+</div>
 
 
 
+### General Tools 
 <div display="inline">
  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  
