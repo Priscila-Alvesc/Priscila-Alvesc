@@ -1,19 +1,11 @@
-## Hi there 👋
+## Priscila Alves
 
-<!--
-**Priscila-Alvesc/Priscila-Alvesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente trabalhando na NTTD Data, dedicando-me ao aprimoramento em testes automatizados.
 
-Here are some ideas to get you started:
+📈 Minha experiência abrange desde testes e2e, funcionais, de integração, API e desempenho até a gestão completa de ciclo de testes.
 
-- 🔭 I’m currently working on NTTD Data...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 No campo de Produtos de Pagamento, tenho sólido conhecimento em desenvolvimento de produtos financeiros, análise de mercado e estratégias de lançamento.
+
+👥 Estou sempre à disposição para colaborar em projetos relacionados a testes de software.
 
 
-Olá- editar perfil criatura....vai dar certo
