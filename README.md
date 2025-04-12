@@ -9,4 +9,4 @@
 👥 Estou sempre à disposição para colaborar em projetos relacionados a testes de software.
 
 
-[Priscila Alves](linkedin.com/in/priscila-alves-costa)
+[Priscila Alves](https://www.linkedin.com/in/priscila-alves-costa/)
