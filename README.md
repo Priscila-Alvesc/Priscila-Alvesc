@@ -1,6 +1,6 @@
 ## Priscila Alves
 
-🔭 Atualmente trabalhando na NTTD Data, dedicando-me ao aprimoramento em testes automatizados.
+🔭 Atualmente trabalhando na NTTD Data, dedicando-me ao aprimoramento em testes automatizados e Inteligência artificial.
 
 📈 Minha experiência abrange desde testes e2e, funcionais, de integração, API e desempenho até a gestão completa de ciclo de testes.
 
